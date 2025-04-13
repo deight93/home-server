@@ -1,0 +1,2 @@
+# home-server
+ubuntu setting
